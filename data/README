@@ -1,0 +1,5 @@
+File XXXXX_ctg_lg.txt:    length of each contig for species XXXXX
+File XXXXX_genes_all.txt: gene coordinates for each gene of species XXXXX
+WG_topology.nwk: Whole-Genome species phylogeny
+X_topology.nwk: X chromosome species phylogeny
+File RAxML_bestTrees.txt: genes trees for each gene family
